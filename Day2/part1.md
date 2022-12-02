@@ -16,7 +16,7 @@ For example, suppose you were given the following strategy guide:
 
 A Y \
 B X \
-C Z \
+C Z
 
 This strategy guide predicts and recommends the following:
 
