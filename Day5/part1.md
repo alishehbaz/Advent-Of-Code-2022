@@ -35,7 +35,7 @@ Then, both crates are moved from stack 2 to stack 1. Again, because crates are m
 
 --------[Z] \
 --------[N] \
-[M]-----[D] \
+[M]----[D] \
 [C]-----[P] \
 -1---2---3- \
 Finally, one crate is moved from stack 1 to stack 2:
